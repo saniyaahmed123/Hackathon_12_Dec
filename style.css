@@ -1,0 +1,61 @@
+
+.myBtn
+{
+    background: #7C4EE4;
+    
+    color: white;
+    border-radius: 5.74px;
+    padding: 11.4px 34.5px;
+}
+
+.myBtn-3
+{
+    border: #7C4EE4 2px solid;
+    
+    color: #7C4EE4;
+    border-radius: 5.74px;
+    padding: 11.4px 34.5px;
+}
+
+.myBtn-2
+{
+    background: #ffffff;
+    
+    color: black;
+    border-radius: 5.74px;
+    padding: 11.4px 34.5px;
+}
+.navbar-brand img{
+    height: 40px;
+}
+.myH1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #ffffff;
+}
+header{
+    background-color: #7C4EE4;
+}
+.myp{
+    font-size: 17px;
+    color: #ffffff;
+}
+.blog1{
+    width: 
+994.61px;
+
+
+}
+.myHeading{
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 44px;
+    color: #1a1a1a;
+}
+.blog-img{
+   width:600px;
+}
+.card{
+    width: 350px;
+}
